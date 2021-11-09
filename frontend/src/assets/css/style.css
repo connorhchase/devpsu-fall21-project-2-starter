@@ -25,15 +25,15 @@
 }
 
 a {
-    color: #00897B;
+    color: #ad1552;
 }
 
 .colorify {
-    color: #00897B;
+    color: #ad1552;
 }
 
 a:hover {
-    color: #00796B;
+    color: #ad1552;
 }
 
 .on-fly-input,.on-fly-input:hover,.on-fly-input:focus {
@@ -53,7 +53,7 @@ table {
 }
 
 .v-icon-highlighted {
-    color: #00897B !important;
+    color: #ad1552 !important;
 }
 
 .theme--light.v-data-table tbody tr.v-data-table__selected {
@@ -79,20 +79,20 @@ table {
 
 .custom-btn:hover {
     color: #fff;
-    background-color: #00897B;
-    border-color: #00897B;
+    background-color: #ad1552;
+    border-color: #ad1552;
 }
 
 .custom-btn:not(:disabled):not(.disabled):active, .custom-btn:not(:disabled):not(.disabled).active, .show > .custom-btn.dropdown-toggle {
     color: #fff;
-    background-color: #00897B;
-    border-color: #00897B;
+    background-color: #ad1552;
+    border-color: #ad1552;
 }
 
 .custom-btn:focus {
     color: #fff;
-    background-color: #00897B;
-    border-color: #00897B;
+    background-color: #ad1552;
+    border-color: #ad1552;
     box-shadow: 0 0 0 0.1rem #019e8e;
 }
 
